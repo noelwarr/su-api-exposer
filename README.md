@@ -7,8 +7,11 @@ Here is how you might go about doing that
 
 get the API
 ===========
+
     ruby get_api.rb
+    
 That should do the trick.  It saves the api as a hash in "api.hash".  To use it in your build script do something like
+
     api = eval(File.open("api.rb").read)
 
 Build an IDE plugin

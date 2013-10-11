@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_arc(${1:center}, ${2:xaxis}, ${3:normal}, ${4:radius}, ${5:start_angle}, ${6:end_angle}, ${7:num_segments})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_arc the snippet -->
+	<tabTrigger>add_arc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_arc -->
+	<scope>source.ruby</scope>
+</snippet>

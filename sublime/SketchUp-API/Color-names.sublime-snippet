@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+names
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to names the snippet -->
+	<tabTrigger>names</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will names -->
+	<scope>source.ruby</scope>
+</snippet>

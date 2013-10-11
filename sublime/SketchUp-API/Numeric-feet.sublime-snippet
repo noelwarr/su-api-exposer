@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+feet
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to feet the snippet -->
+	<tabTrigger>feet</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will feet -->
+	<scope>source.ruby</scope>
+</snippet>

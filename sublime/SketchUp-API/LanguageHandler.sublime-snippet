@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+LanguageHandler
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to LanguageHandler the snippet -->
+	<tabTrigger>LanguageHandler</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will LanguageHandler -->
+	<scope>source.ruby</scope>
+</snippet>

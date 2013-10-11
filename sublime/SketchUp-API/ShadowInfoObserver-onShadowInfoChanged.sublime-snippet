@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onShadowInfoChanged(${1:shadow_info}, ${2:type})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onShadowInfoChanged the snippet -->
+	<tabTrigger>onShadowInfoChanged</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onShadowInfoChanged -->
+	<scope>source.ruby</scope>
+</snippet>

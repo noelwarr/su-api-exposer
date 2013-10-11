@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+number_faces
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to number_faces the snippet -->
+	<tabTrigger>number_faces</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will number_faces -->
+	<scope>source.ruby</scope>
+</snippet>

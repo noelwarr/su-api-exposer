@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+file_extension
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to file_extension the snippet -->
+	<tabTrigger>file_extension</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will file_extension -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+start_angle
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to start_angle the snippet -->
+	<tabTrigger>start_angle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will start_angle -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+raytest(${1:ray}, ${2:wysiwyg_flag})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to raytest the snippet -->
+	<tabTrigger>raytest</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will raytest -->
+	<scope>source.ruby</scope>
+</snippet>

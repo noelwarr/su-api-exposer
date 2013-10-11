@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+SketchupExtension
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to SketchupExtension the snippet -->
+	<tabTrigger>SketchupExtension</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will SketchupExtension -->
+	<scope>source.ruby</scope>
+</snippet>

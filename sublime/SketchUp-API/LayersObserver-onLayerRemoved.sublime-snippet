@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onLayerRemoved(${1:layers}, ${2:layer})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onLayerRemoved the snippet -->
+	<tabTrigger>onLayerRemoved</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onLayerRemoved -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_matchphoto_page(${1:image_name}, ${2:camera}, ${3:page_name})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_matchphoto_page the snippet -->
+	<tabTrigger>add_matchphoto_page</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_matchphoto_page -->
+	<scope>source.ruby</scope>
+</snippet>

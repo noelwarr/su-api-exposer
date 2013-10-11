@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+pick_segment(${1:array_or_list}, ${2:x}, ${3:y}, ${4:aperture})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to pick_segment the snippet -->
+	<tabTrigger>pick_segment</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will pick_segment -->
+	<scope>source.ruby</scope>
+</snippet>

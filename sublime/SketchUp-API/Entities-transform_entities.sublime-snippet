@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+transform_entities(${1:transform}, ${2:entities})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to transform_entities the snippet -->
+	<tabTrigger>transform_entities</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will transform_entities -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+outer_loop
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to outer_loop the snippet -->
+	<tabTrigger>outer_loop</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will outer_loop -->
+	<scope>source.ruby</scope>
+</snippet>

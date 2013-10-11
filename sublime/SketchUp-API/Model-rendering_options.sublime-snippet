@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+rendering_options
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to rendering_options the snippet -->
+	<tabTrigger>rendering_options</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will rendering_options -->
+	<scope>source.ruby</scope>
+</snippet>

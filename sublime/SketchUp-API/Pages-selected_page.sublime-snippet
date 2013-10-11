@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+selected_page
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to selected_page the snippet -->
+	<tabTrigger>selected_page</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will selected_page -->
+	<scope>source.ruby</scope>
+</snippet>

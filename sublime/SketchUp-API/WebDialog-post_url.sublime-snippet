@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+post_url(${1:url}, ${2:data})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to post_url the snippet -->
+	<tabTrigger>post_url</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will post_url -->
+	<scope>source.ruby</scope>
+</snippet>

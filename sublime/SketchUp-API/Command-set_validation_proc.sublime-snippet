@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_validation_proc
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_validation_proc the snippet -->
+	<tabTrigger>set_validation_proc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_validation_proc -->
+	<scope>source.ruby</scope>
+</snippet>

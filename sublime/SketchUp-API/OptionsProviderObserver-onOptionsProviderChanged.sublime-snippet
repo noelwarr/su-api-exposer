@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onOptionsProviderChanged(${1:provider}, ${2:name})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onOptionsProviderChanged the snippet -->
+	<tabTrigger>onOptionsProviderChanged</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onOptionsProviderChanged -->
+	<scope>source.ruby</scope>
+</snippet>

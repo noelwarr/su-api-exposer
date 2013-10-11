@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+AppObserver
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to AppObserver the snippet -->
+	<tabTrigger>AppObserver</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will AppObserver -->
+	<scope>source.ruby</scope>
+</snippet>

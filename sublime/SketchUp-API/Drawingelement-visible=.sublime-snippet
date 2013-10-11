@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+visible=(${1:visibility})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to visible= the snippet -->
+	<tabTrigger>visible=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will visible= -->
+	<scope>source.ruby</scope>
+</snippet>

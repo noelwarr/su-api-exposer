@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+samedirection?(${1:vector2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to samedirection? the snippet -->
+	<tabTrigger>samedirection?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will samedirection? -->
+	<scope>source.ruby</scope>
+</snippet>

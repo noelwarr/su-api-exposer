@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+version_id
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to version_id the snippet -->
+	<tabTrigger>version_id</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will version_id -->
+	<scope>source.ruby</scope>
+</snippet>

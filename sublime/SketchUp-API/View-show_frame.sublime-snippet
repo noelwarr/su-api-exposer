@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+show_frame(${1:lt;delay})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to show_frame the snippet -->
+	<tabTrigger>show_frame</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will show_frame -->
+	<scope>source.ruby</scope>
+</snippet>

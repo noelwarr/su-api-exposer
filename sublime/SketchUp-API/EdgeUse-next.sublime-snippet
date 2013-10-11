@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+next
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to next the snippet -->
+	<tabTrigger>next</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will next -->
+	<scope>source.ruby</scope>
+</snippet>

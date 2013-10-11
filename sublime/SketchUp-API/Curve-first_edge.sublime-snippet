@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+first_edge
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to first_edge the snippet -->
+	<tabTrigger>first_edge</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will first_edge -->
+	<scope>source.ruby</scope>
+</snippet>

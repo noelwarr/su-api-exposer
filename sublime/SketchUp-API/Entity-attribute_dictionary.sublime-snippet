@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+attribute_dictionary(${1:name}, ${2:create})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to attribute_dictionary the snippet -->
+	<tabTrigger>attribute_dictionary</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will attribute_dictionary -->
+	<scope>source.ruby</scope>
+</snippet>

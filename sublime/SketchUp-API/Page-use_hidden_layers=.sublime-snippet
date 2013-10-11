@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+use_hidden_layers=(${1:setting})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to use_hidden_layers= the snippet -->
+	<tabTrigger>use_hidden_layers=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will use_hidden_layers= -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+description=
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to description= the snippet -->
+	<tabTrigger>description=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will description= -->
+	<scope>source.ruby</scope>
+</snippet>

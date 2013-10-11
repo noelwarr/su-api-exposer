@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_separator
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_separator the snippet -->
+	<tabTrigger>add_separator</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_separator -->
+	<scope>source.ruby</scope>
+</snippet>

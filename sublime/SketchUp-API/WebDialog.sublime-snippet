@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+WebDialog
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to WebDialog the snippet -->
+	<tabTrigger>WebDialog</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will WebDialog -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+georeferenced?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to georeferenced? the snippet -->
+	<tabTrigger>georeferenced?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will georeferenced? -->
+	<scope>source.ruby</scope>
+</snippet>

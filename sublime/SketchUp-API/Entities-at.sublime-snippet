@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+at
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to at the snippet -->
+	<tabTrigger>at</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will at -->
+	<scope>source.ruby</scope>
+</snippet>

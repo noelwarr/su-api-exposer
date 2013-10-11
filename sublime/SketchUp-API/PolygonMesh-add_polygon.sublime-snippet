@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_polygon(${1:points})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_polygon the snippet -->
+	<tabTrigger>add_polygon</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_polygon -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_status_text(${1:status}, ${2:position})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_status_text the snippet -->
+	<tabTrigger>set_status_text</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_status_text -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+uv_at(${1:index})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to uv_at the snippet -->
+	<tabTrigger>uv_at</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will uv_at -->
+	<scope>source.ruby</scope>
+</snippet>

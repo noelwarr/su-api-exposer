@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Drawingelement
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Drawingelement the snippet -->
+	<tabTrigger>Drawingelement</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Drawingelement -->
+	<scope>source.ruby</scope>
+</snippet>

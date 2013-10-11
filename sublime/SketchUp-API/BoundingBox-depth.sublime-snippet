@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+depth
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to depth the snippet -->
+	<tabTrigger>depth</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will depth -->
+	<scope>source.ruby</scope>
+</snippet>

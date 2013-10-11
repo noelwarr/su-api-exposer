@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+allow_actions_from_host(${1:hostname})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to allow_actions_from_host the snippet -->
+	<tabTrigger>allow_actions_from_host</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will allow_actions_from_host -->
+	<scope>source.ruby</scope>
+</snippet>

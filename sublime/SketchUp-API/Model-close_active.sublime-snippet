@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+close_active
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to close_active the snippet -->
+	<tabTrigger>close_active</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will close_active -->
+	<scope>source.ruby</scope>
+</snippet>

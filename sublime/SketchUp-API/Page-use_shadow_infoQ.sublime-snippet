@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+use_shadow_info?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to use_shadow_info? the snippet -->
+	<tabTrigger>use_shadow_info?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will use_shadow_info? -->
+	<scope>source.ruby</scope>
+</snippet>

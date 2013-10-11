@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_ngon(${1:center}, ${2:normal}, ${3:radius}, ${4:numsides})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_ngon the snippet -->
+	<tabTrigger>add_ngon</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_ngon -->
+	<scope>source.ruby</scope>
+</snippet>

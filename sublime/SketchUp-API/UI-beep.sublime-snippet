@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+beep
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to beep the snippet -->
+	<tabTrigger>beep</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will beep -->
+	<scope>source.ruby</scope>
+</snippet>

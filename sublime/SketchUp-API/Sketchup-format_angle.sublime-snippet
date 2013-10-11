@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+format_angle(${1:number})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to format_angle the snippet -->
+	<tabTrigger>format_angle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will format_angle -->
+	<scope>source.ruby</scope>
+</snippet>

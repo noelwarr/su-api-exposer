@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+use_section_planes=(${1:setting})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to use_section_planes= the snippet -->
+	<tabTrigger>use_section_planes=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will use_section_planes= -->
+	<scope>source.ruby</scope>
+</snippet>

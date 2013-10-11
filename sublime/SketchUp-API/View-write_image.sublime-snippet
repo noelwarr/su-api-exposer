@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+write_image(${1:filename_or_hash}, ${2:width}, ${3:height}, ${4:antialias}, ${5:compression})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to write_image the snippet -->
+	<tabTrigger>write_image</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will write_image -->
+	<scope>source.ruby</scope>
+</snippet>

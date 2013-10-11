@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+send_action(${1:action})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to send_action the snippet -->
+	<tabTrigger>send_action</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will send_action -->
+	<scope>source.ruby</scope>
+</snippet>

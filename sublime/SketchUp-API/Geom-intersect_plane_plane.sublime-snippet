@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+intersect_plane_plane(${1:plane1}, ${2:plane2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to intersect_plane_plane the snippet -->
+	<tabTrigger>intersect_plane_plane</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will intersect_plane_plane -->
+	<scope>source.ruby</scope>
+</snippet>

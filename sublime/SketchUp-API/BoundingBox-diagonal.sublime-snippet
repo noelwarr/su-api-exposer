@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+diagonal
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to diagonal the snippet -->
+	<tabTrigger>diagonal</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will diagonal -->
+	<scope>source.ruby</scope>
+</snippet>

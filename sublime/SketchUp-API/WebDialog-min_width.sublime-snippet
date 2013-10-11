@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+min_width
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to min_width the snippet -->
+	<tabTrigger>min_width</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will min_width -->
+	<scope>source.ruby</scope>
+</snippet>

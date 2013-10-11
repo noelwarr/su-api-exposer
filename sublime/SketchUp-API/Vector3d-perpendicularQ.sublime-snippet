@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+perpendicular?(${1:vector2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to perpendicular? the snippet -->
+	<tabTrigger>perpendicular?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will perpendicular? -->
+	<scope>source.ruby</scope>
+</snippet>

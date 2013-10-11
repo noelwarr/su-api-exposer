@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+draw_polyline(${1:point_list}, ${2:pts})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to draw_polyline the snippet -->
+	<tabTrigger>draw_polyline</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will draw_polyline -->
+	<scope>source.ruby</scope>
+</snippet>

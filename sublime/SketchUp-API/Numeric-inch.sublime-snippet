@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+inch
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to inch the snippet -->
+	<tabTrigger>inch</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will inch -->
+	<scope>source.ruby</scope>
+</snippet>

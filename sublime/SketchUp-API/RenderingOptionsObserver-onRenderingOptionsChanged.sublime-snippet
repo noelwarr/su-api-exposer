@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onRenderingOptionsChanged(${1:renderoptions}, ${2:type})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onRenderingOptionsChanged the snippet -->
+	<tabTrigger>onRenderingOptionsChanged</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onRenderingOptionsChanged -->
+	<scope>source.ruby</scope>
+</snippet>

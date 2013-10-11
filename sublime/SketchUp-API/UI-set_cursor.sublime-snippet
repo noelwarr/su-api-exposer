@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_cursor(${1:cursor_id})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_cursor the snippet -->
+	<tabTrigger>set_cursor</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_cursor -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+all_connected
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to all_connected the snippet -->
+	<tabTrigger>all_connected</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will all_connected -->
+	<scope>source.ruby</scope>
+</snippet>

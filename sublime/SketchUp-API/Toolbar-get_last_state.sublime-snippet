@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_last_state
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_last_state the snippet -->
+	<tabTrigger>get_last_state</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_last_state -->
+	<scope>source.ruby</scope>
+</snippet>

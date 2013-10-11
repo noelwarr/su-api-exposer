@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onLayerAdded(${1:layers}, ${2:layer})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onLayerAdded the snippet -->
+	<tabTrigger>onLayerAdded</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onLayerAdded -->
+	<scope>source.ruby</scope>
+</snippet>

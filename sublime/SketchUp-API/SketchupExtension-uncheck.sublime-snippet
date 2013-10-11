@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+uncheck
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to uncheck the snippet -->
+	<tabTrigger>uncheck</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will uncheck -->
+	<scope>source.ruby</scope>
+</snippet>

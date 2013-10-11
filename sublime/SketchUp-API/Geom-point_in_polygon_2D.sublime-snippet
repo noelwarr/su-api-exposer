@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+point_in_polygon_2D(${1:point}, ${2:polygon_pts}, ${3:check_border})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to point_in_polygon_2D the snippet -->
+	<tabTrigger>point_in_polygon_2D</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will point_in_polygon_2D -->
+	<scope>source.ruby</scope>
+</snippet>

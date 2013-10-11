@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+depth_at(${1:index})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to depth_at the snippet -->
+	<tabTrigger>depth_at</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will depth_at -->
+	<scope>source.ruby</scope>
+</snippet>

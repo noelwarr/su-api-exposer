@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+length
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to length the snippet -->
+	<tabTrigger>length</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will length -->
+	<scope>source.ruby</scope>
+</snippet>

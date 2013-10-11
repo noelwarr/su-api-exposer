@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onOpen(${1:instance})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onOpen the snippet -->
+	<tabTrigger>onOpen</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onOpen -->
+	<scope>source.ruby</scope>
+</snippet>

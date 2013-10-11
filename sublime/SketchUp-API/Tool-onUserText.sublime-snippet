@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onUserText(${1:text}, ${2:view})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onUserText the snippet -->
+	<tabTrigger>onUserText</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onUserText -->
+	<scope>source.ruby</scope>
+</snippet>

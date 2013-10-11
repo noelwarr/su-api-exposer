@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+toolbar(${1:name})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to toolbar the snippet -->
+	<tabTrigger>toolbar</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will toolbar -->
+	<scope>source.ruby</scope>
+</snippet>

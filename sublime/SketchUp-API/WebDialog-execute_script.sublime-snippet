@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+execute_script(${1:script})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to execute_script the snippet -->
+	<tabTrigger>execute_script</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will execute_script -->
+	<scope>source.ruby</scope>
+</snippet>

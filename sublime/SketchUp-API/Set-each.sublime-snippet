@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+each
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to each the snippet -->
+	<tabTrigger>each</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will each -->
+	<scope>source.ruby</scope>
+</snippet>

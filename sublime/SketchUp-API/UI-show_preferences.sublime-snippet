@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+show_preferences(${1:page_name})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to show_preferences the snippet -->
+	<tabTrigger>show_preferences</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will show_preferences -->
+	<scope>source.ruby</scope>
+</snippet>

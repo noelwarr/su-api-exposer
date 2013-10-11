@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+hide
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to hide the snippet -->
+	<tabTrigger>hide</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will hide -->
+	<scope>source.ruby</scope>
+</snippet>

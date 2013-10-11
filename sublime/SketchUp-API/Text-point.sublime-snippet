@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+point
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to point the snippet -->
+	<tabTrigger>point</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will point -->
+	<scope>source.ruby</scope>
+</snippet>

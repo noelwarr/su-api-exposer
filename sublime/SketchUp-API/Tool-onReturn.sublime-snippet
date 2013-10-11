@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onReturn(${1:view})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onReturn the snippet -->
+	<tabTrigger>onReturn</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onReturn -->
+	<scope>source.ruby</scope>
+</snippet>

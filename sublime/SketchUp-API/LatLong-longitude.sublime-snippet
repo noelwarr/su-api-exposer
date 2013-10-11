@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+longitude
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to longitude the snippet -->
+	<tabTrigger>longitude</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will longitude -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+update(${1:flags})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to update the snippet -->
+	<tabTrigger>update</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will update -->
+	<scope>source.ruby</scope>
+</snippet>

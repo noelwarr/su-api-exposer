@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mesh(${1:flags})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to mesh the snippet -->
+	<tabTrigger>mesh</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will mesh -->
+	<scope>source.ruby</scope>
+</snippet>

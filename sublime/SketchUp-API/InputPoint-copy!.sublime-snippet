@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+copy!(${1:inputpoint})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to copy! the snippet -->
+	<tabTrigger>copy!</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will copy! -->
+	<scope>source.ruby</scope>
+</snippet>

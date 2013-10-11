@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onTransactionRedo(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onTransactionRedo the snippet -->
+	<tabTrigger>onTransactionRedo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onTransactionRedo -->
+	<scope>source.ruby</scope>
+</snippet>

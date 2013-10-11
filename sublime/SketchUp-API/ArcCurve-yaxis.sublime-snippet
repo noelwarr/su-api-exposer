@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+yaxis
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to yaxis the snippet -->
+	<tabTrigger>yaxis</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will yaxis -->
+	<scope>source.ruby</scope>
+</snippet>

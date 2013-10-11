@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+parse_length(${1:stringnumber})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to parse_length the snippet -->
+	<tabTrigger>parse_length</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will parse_length -->
+	<scope>source.ruby</scope>
+</snippet>

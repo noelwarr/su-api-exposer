@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+active_tool_name
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to active_tool_name the snippet -->
+	<tabTrigger>active_tool_name</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will active_tool_name -->
+	<scope>source.ruby</scope>
+</snippet>

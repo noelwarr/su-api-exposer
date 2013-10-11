@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_visibility(${1:layer}, ${2:visibility})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_visibility the snippet -->
+	<tabTrigger>set_visibility</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_visibility -->
+	<scope>source.ruby</scope>
+</snippet>

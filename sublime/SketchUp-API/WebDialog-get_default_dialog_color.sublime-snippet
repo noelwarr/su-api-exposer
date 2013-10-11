@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_default_dialog_color
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_default_dialog_color the snippet -->
+	<tabTrigger>get_default_dialog_color</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_default_dialog_color -->
+	<scope>source.ruby</scope>
+</snippet>

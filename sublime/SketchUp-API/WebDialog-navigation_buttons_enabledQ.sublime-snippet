@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+navigation_buttons_enabled?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to navigation_buttons_enabled? the snippet -->
+	<tabTrigger>navigation_buttons_enabled?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will navigation_buttons_enabled? -->
+	<scope>source.ruby</scope>
+</snippet>

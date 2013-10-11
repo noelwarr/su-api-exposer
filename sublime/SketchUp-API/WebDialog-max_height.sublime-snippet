@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+max_height
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to max_height the snippet -->
+	<tabTrigger>max_height</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will max_height -->
+	<scope>source.ruby</scope>
+</snippet>

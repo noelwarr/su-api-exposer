@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_attribute(${1:attrdictname}, ${2:key}, ${3:value})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_attribute the snippet -->
+	<tabTrigger>set_attribute</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_attribute -->
+	<scope>source.ruby</scope>
+</snippet>

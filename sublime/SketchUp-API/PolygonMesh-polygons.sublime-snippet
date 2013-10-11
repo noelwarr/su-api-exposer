@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+polygons
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to polygons the snippet -->
+	<tabTrigger>polygons</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will polygons -->
+	<scope>source.ruby</scope>
+</snippet>

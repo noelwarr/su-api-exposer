@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+hidden_entities
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to hidden_entities the snippet -->
+	<tabTrigger>hidden_entities</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will hidden_entities -->
+	<scope>source.ruby</scope>
+</snippet>

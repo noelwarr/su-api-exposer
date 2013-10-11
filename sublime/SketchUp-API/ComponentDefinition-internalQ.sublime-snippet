@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+internal?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to internal? the snippet -->
+	<tabTrigger>internal?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will internal? -->
+	<scope>source.ruby</scope>
+</snippet>

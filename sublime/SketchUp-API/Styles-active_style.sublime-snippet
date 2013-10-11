@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+active_style
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to active_style the snippet -->
+	<tabTrigger>active_style</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will active_style -->
+	<scope>source.ruby</scope>
+</snippet>

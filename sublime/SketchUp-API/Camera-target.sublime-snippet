@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+target
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to target the snippet -->
+	<tabTrigger>target</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will target -->
+	<scope>source.ruby</scope>
+</snippet>

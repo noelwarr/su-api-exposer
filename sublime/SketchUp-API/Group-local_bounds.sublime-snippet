@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+local_bounds
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to local_bounds the snippet -->
+	<tabTrigger>local_bounds</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will local_bounds -->
+	<scope>source.ruby</scope>
+</snippet>

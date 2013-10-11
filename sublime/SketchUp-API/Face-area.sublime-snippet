@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+area(${1:tranform})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to area the snippet -->
+	<tabTrigger>area</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will area -->
+	<scope>source.ruby</scope>
+</snippet>

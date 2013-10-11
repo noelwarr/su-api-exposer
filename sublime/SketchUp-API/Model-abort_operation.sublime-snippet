@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+abort_operation
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to abort_operation the snippet -->
+	<tabTrigger>abort_operation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will abort_operation -->
+	<scope>source.ruby</scope>
+</snippet>

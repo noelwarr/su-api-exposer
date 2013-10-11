@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+update_selected_style
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to update_selected_style the snippet -->
+	<tabTrigger>update_selected_style</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will update_selected_style -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_faces_from_mesh(${1:polygonmesh}, ${2:smooth_flags}, ${3:f_material}, ${4:b_material})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_faces_from_mesh the snippet -->
+	<tabTrigger>add_faces_from_mesh</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_faces_from_mesh -->
+	<scope>source.ruby</scope>
+</snippet>

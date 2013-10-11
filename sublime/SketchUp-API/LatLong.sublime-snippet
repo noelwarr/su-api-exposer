@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+LatLong
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to LatLong the snippet -->
+	<tabTrigger>LatLong</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will LatLong -->
+	<scope>source.ruby</scope>
+</snippet>

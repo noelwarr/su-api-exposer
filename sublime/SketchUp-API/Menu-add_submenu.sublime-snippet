@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_submenu
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_submenu the snippet -->
+	<tabTrigger>add_submenu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_submenu -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+preferences_pages
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to preferences_pages the snippet -->
+	<tabTrigger>preferences_pages</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will preferences_pages -->
+	<scope>source.ruby</scope>
+</snippet>

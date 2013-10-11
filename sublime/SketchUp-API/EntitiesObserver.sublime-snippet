@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+EntitiesObserver
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to EntitiesObserver the snippet -->
+	<tabTrigger>EntitiesObserver</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will EntitiesObserver -->
+	<scope>source.ruby</scope>
+</snippet>

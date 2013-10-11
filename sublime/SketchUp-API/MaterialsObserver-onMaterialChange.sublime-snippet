@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onMaterialChange(${1:materials}, ${2:material})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onMaterialChange the snippet -->
+	<tabTrigger>onMaterialChange</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onMaterialChange -->
+	<scope>source.ruby</scope>
+</snippet>

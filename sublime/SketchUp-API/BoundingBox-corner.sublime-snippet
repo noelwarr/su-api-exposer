@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+corner(${1:corner})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to corner the snippet -->
+	<tabTrigger>corner</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will corner -->
+	<scope>source.ruby</scope>
+</snippet>

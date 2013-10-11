@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onToolStateChanged(${1:tools}, ${2:tool_name}, ${3:tool_id}, ${4:tool_state})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onToolStateChanged the snippet -->
+	<tabTrigger>onToolStateChanged</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onToolStateChanged -->
+	<scope>source.ruby</scope>
+</snippet>

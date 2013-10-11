@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+materialType
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to materialType the snippet -->
+	<tabTrigger>materialType</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will materialType -->
+	<scope>source.ruby</scope>
+</snippet>

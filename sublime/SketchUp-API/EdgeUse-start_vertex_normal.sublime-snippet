@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+start_vertex_normal
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to start_vertex_normal the snippet -->
+	<tabTrigger>start_vertex_normal</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will start_vertex_normal -->
+	<scope>source.ruby</scope>
+</snippet>

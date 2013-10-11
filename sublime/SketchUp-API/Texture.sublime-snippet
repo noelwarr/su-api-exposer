@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Texture
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Texture the snippet -->
+	<tabTrigger>Texture</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Texture -->
+	<scope>source.ruby</scope>
+</snippet>

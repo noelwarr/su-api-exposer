@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+count_polygons
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to count_polygons the snippet -->
+	<tabTrigger>count_polygons</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will count_polygons -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+DefinitionObserver
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to DefinitionObserver the snippet -->
+	<tabTrigger>DefinitionObserver</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will DefinitionObserver -->
+	<scope>source.ruby</scope>
+</snippet>

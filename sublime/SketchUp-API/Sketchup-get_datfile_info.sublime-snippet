@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_datfile_info(${1:key}, ${2:default_value})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_datfile_info the snippet -->
+	<tabTrigger>get_datfile_info</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_datfile_info -->
+	<scope>source.ruby</scope>
+</snippet>

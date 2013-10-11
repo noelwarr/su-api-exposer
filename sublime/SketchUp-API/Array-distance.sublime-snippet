@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+distance(${1:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to distance the snippet -->
+	<tabTrigger>distance</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will distance -->
+	<scope>source.ruby</scope>
+</snippet>

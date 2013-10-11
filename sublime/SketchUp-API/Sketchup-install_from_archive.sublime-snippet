@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+install_from_archive
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to install_from_archive the snippet -->
+	<tabTrigger>install_from_archive</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will install_from_archive -->
+	<scope>source.ruby</scope>
+</snippet>

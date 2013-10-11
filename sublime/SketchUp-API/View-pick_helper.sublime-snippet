@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+pick_helper
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to pick_helper the snippet -->
+	<tabTrigger>pick_helper</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will pick_helper -->
+	<scope>source.ruby</scope>
+</snippet>

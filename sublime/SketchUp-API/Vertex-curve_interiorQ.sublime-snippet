@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+curve_interior?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to curve_interior? the snippet -->
+	<tabTrigger>curve_interior?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will curve_interior? -->
+	<scope>source.ruby</scope>
+</snippet>

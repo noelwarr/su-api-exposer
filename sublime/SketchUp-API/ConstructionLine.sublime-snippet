@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ConstructionLine
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to ConstructionLine the snippet -->
+	<tabTrigger>ConstructionLine</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will ConstructionLine -->
+	<scope>source.ruby</scope>
+</snippet>

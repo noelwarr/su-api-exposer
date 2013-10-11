@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+best_picked
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to best_picked the snippet -->
+	<tabTrigger>best_picked</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will best_picked -->
+	<scope>source.ruby</scope>
+</snippet>

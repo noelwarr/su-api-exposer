@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onUnloadExtension(${1:ext_name})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onUnloadExtension the snippet -->
+	<tabTrigger>onUnloadExtension</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onUnloadExtension -->
+	<scope>source.ruby</scope>
+</snippet>

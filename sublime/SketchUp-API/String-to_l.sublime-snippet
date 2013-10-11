@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+to_l
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to to_l the snippet -->
+	<tabTrigger>to_l</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will to_l -->
+	<scope>source.ruby</scope>
+</snippet>

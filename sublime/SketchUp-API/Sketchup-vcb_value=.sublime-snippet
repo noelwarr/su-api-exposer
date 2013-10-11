@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+vcb_value=(${1:value})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to vcb_value= the snippet -->
+	<tabTrigger>vcb_value=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will vcb_value= -->
+	<scope>source.ruby</scope>
+</snippet>

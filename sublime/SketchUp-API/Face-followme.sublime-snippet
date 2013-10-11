@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+followme(${1:edge1})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to followme the snippet -->
+	<tabTrigger>followme</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will followme -->
+	<scope>source.ruby</scope>
+</snippet>

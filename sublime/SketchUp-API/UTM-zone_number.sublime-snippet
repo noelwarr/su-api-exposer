@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+zone_number
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to zone_number the snippet -->
+	<tabTrigger>zone_number</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will zone_number -->
+	<scope>source.ruby</scope>
+</snippet>

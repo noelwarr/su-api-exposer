@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_point(${1:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_point the snippet -->
+	<tabTrigger>add_point</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_point -->
+	<scope>source.ruby</scope>
+</snippet>

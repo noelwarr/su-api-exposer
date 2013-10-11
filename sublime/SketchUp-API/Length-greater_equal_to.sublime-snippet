@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+>=(${1:length1}, ${2:length2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to greater_equal_to the snippet -->
+	<tabTrigger>greater_equal_to</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will greater_equal_to -->
+	<scope>source.ruby</scope>
+</snippet>

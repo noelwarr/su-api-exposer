@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onMaterialRemove(${1:materials}, ${2:material})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onMaterialRemove the snippet -->
+	<tabTrigger>onMaterialRemove</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onMaterialRemove -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Tools
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Tools the snippet -->
+	<tabTrigger>Tools</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Tools -->
+	<scope>source.ruby</scope>
+</snippet>

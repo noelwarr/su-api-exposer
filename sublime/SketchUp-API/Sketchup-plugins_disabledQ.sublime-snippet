@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+plugins_disabled?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to plugins_disabled? the snippet -->
+	<tabTrigger>plugins_disabled?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will plugins_disabled? -->
+	<scope>source.ruby</scope>
+</snippet>

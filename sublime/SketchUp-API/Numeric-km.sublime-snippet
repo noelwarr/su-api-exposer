@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+km
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to km the snippet -->
+	<tabTrigger>km</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will km -->
+	<scope>source.ruby</scope>
+</snippet>

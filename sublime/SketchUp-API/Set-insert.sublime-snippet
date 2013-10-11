@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+insert(${1:object})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to insert the snippet -->
+	<tabTrigger>insert</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will insert -->
+	<scope>source.ruby</scope>
+</snippet>

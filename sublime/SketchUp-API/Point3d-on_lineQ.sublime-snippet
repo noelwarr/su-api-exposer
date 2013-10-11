@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+on_line?(${1:line})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to on_line? the snippet -->
+	<tabTrigger>on_line?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will on_line? -->
+	<scope>source.ruby</scope>
+</snippet>

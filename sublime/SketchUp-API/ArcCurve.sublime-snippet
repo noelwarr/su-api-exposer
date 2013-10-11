@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ArcCurve
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to ArcCurve the snippet -->
+	<tabTrigger>ArcCurve</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will ArcCurve -->
+	<scope>source.ruby</scope>
+</snippet>

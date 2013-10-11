@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+start
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to start the snippet -->
+	<tabTrigger>start</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will start -->
+	<scope>source.ruby</scope>
+</snippet>

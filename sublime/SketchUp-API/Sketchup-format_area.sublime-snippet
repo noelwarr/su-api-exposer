@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+format_area(${1:number})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to format_area the snippet -->
+	<tabTrigger>format_area</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will format_area -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onLButtonDown(${1:flags}, ${2:x}, ${3:y}, ${4:view})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onLButtonDown the snippet -->
+	<tabTrigger>onLButtonDown</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onLButtonDown -->
+	<scope>source.ruby</scope>
+</snippet>

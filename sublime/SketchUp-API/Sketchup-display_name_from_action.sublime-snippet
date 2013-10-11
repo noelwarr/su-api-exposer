@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+display_name_from_action(${1:action_name})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to display_name_from_action the snippet -->
+	<tabTrigger>display_name_from_action</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will display_name_from_action -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+utm_to_point(${1:utm})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to utm_to_point the snippet -->
+	<tabTrigger>utm_to_point</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will utm_to_point -->
+	<scope>source.ruby</scope>
+</snippet>

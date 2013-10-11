@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+zrotation
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to zrotation the snippet -->
+	<tabTrigger>zrotation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will zrotation -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+active_layer
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to active_layer the snippet -->
+	<tabTrigger>active_layer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will active_layer -->
+	<scope>source.ruby</scope>
+</snippet>

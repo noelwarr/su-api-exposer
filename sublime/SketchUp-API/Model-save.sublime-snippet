@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+save(${1:filename})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to save the snippet -->
+	<tabTrigger>save</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will save -->
+	<scope>source.ruby</scope>
+</snippet>

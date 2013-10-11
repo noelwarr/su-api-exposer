@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onMButtonDoubleClick(${1:flags}, ${2:x}, ${3:y}, ${4:view})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onMButtonDoubleClick the snippet -->
+	<tabTrigger>onMButtonDoubleClick</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onMButtonDoubleClick -->
+	<scope>source.ruby</scope>
+</snippet>

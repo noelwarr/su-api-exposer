@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+EdgeUse
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to EdgeUse the snippet -->
+	<tabTrigger>EdgeUse</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will EdgeUse -->
+	<scope>source.ruby</scope>
+</snippet>

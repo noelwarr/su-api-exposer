@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_3d_text(${1:string}, ${2:alignment}, ${3:font}, ${4:is_bold}, ${5:is_italic}, ${6:letter_height}, ${7:tolerance}, ${8:z}, ${9:is_filled}, ${10:extrusion})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_3d_text the snippet -->
+	<tabTrigger>add_3d_text</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_3d_text -->
+	<scope>source.ruby</scope>
+</snippet>

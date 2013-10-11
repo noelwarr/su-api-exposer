@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+common_edge(${1:vertex2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to common_edge the snippet -->
+	<tabTrigger>common_edge</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will common_edge -->
+	<scope>source.ruby</scope>
+</snippet>

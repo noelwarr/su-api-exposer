@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+restore
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to restore the snippet -->
+	<tabTrigger>restore</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will restore -->
+	<scope>source.ruby</scope>
+</snippet>

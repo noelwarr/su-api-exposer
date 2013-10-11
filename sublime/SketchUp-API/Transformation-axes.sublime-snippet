@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+axes(${1:origin}, ${2:xaxis}, ${3:yaxis}, ${4:zaxis})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to axes the snippet -->
+	<tabTrigger>axes</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will axes -->
+	<scope>source.ruby</scope>
+</snippet>

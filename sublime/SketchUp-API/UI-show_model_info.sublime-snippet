@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+show_model_info(${1:page_name})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to show_model_info the snippet -->
+	<tabTrigger>show_model_info</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will show_model_info -->
+	<scope>source.ruby</scope>
+</snippet>

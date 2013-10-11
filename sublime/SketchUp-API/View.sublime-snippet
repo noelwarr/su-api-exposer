@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+View
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to View the snippet -->
+	<tabTrigger>View</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will View -->
+	<scope>source.ruby</scope>
+</snippet>

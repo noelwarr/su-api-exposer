@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+no_scale_mask?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to no_scale_mask? the snippet -->
+	<tabTrigger>no_scale_mask?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will no_scale_mask? -->
+	<scope>source.ruby</scope>
+</snippet>

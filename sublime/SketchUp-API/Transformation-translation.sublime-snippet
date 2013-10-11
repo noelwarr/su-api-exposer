@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+translation(${1:vector})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to translation the snippet -->
+	<tabTrigger>translation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will translation -->
+	<scope>source.ruby</scope>
+</snippet>

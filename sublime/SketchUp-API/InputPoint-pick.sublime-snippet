@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+pick(${1:view}, ${2:x}, ${3:y}, ${4:inputpoint})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to pick the snippet -->
+	<tabTrigger>pick</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will pick -->
+	<scope>source.ruby</scope>
+</snippet>

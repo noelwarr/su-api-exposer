@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onTransactionAbort(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onTransactionAbort the snippet -->
+	<tabTrigger>onTransactionAbort</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onTransactionAbort -->
+	<scope>source.ruby</scope>
+</snippet>

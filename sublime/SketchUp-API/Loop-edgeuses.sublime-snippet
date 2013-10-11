@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+edgeuses
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to edgeuses the snippet -->
+	<tabTrigger>edgeuses</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will edgeuses -->
+	<scope>source.ruby</scope>
+</snippet>

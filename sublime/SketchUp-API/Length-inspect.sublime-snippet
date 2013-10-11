@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+inspect
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to inspect the snippet -->
+	<tabTrigger>inspect</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will inspect -->
+	<scope>source.ruby</scope>
+</snippet>

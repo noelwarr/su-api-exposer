@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+explode_curve
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to explode_curve the snippet -->
+	<tabTrigger>explode_curve</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will explode_curve -->
+	<scope>source.ruby</scope>
+</snippet>

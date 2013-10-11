@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mile
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to mile the snippet -->
+	<tabTrigger>mile</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will mile -->
+	<scope>source.ruby</scope>
+</snippet>

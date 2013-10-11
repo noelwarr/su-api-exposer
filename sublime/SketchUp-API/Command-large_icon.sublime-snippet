@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+large_icon
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to large_icon the snippet -->
+	<tabTrigger>large_icon</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will large_icon -->
+	<scope>source.ruby</scope>
+</snippet>

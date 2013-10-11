@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+tooltip
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to tooltip the snippet -->
+	<tabTrigger>tooltip</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will tooltip -->
+	<scope>source.ruby</scope>
+</snippet>

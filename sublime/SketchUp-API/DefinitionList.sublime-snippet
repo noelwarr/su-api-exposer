@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+DefinitionList
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to DefinitionList the snippet -->
+	<tabTrigger>DefinitionList</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will DefinitionList -->
+	<scope>source.ruby</scope>
+</snippet>

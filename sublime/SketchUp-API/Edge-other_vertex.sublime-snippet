@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+other_vertex(${1:vertex1})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to other_vertex the snippet -->
+	<tabTrigger>other_vertex</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will other_vertex -->
+	<scope>source.ruby</scope>
+</snippet>

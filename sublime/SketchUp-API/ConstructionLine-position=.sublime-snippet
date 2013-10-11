@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+position=(${1:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to position= the snippet -->
+	<tabTrigger>position=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will position= -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+vector_to(${1:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to vector_to the snippet -->
+	<tabTrigger>vector_to</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will vector_to -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+modified?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to modified? the snippet -->
+	<tabTrigger>modified?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will modified? -->
+	<scope>source.ruby</scope>
+</snippet>

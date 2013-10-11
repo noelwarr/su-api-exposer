@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+used_by?(${1:element})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to used_by? the snippet -->
+	<tabTrigger>used_by?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will used_by? -->
+	<scope>source.ruby</scope>
+</snippet>

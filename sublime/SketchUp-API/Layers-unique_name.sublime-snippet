@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+unique_name(${1:base_name})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to unique_name the snippet -->
+	<tabTrigger>unique_name</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will unique_name -->
+	<scope>source.ruby</scope>
+</snippet>

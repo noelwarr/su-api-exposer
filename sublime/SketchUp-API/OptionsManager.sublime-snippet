@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+OptionsManager
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to OptionsManager the snippet -->
+	<tabTrigger>OptionsManager</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will OptionsManager -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+delete(${1:object})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to delete the snippet -->
+	<tabTrigger>delete</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will delete -->
+	<scope>source.ruby</scope>
+</snippet>

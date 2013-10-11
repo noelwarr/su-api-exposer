@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+model_info_pages
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to model_info_pages the snippet -->
+	<tabTrigger>model_info_pages</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will model_info_pages -->
+	<scope>source.ruby</scope>
+</snippet>

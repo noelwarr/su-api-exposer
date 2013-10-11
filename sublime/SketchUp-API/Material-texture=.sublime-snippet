@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+texture=(${1:texture})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to texture= the snippet -->
+	<tabTrigger>texture=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will texture= -->
+	<scope>source.ruby</scope>
+</snippet>

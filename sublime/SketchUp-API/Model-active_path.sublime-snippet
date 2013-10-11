@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+active_path
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to active_path the snippet -->
+	<tabTrigger>active_path</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will active_path -->
+	<scope>source.ruby</scope>
+</snippet>

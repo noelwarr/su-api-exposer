@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+load(${1:entity}, ${2:side})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to load the snippet -->
+	<tabTrigger>load</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will load -->
+	<scope>source.ruby</scope>
+</snippet>

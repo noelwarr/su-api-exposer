@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+init(${1:x}, ${2:y}, ${3:aperture})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to init the snippet -->
+	<tabTrigger>init</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will init -->
+	<scope>source.ruby</scope>
+</snippet>

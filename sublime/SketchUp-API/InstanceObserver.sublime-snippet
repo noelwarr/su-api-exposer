@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+InstanceObserver
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to InstanceObserver the snippet -->
+	<tabTrigger>InstanceObserver</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will InstanceObserver -->
+	<scope>source.ruby</scope>
+</snippet>

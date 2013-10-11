@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_full_security=(${1:full_security})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_full_security= the snippet -->
+	<tabTrigger>set_full_security=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_full_security= -->
+	<scope>source.ruby</scope>
+</snippet>

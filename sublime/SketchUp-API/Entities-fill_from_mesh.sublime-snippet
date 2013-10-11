@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+fill_from_mesh(${1:polygonmesh}, ${2:weld_vertices}, ${3:smooth_flags}, ${4:f_material}, ${5:b_material})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to fill_from_mesh the snippet -->
+	<tabTrigger>fill_from_mesh</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will fill_from_mesh -->
+	<scope>source.ruby</scope>
+</snippet>

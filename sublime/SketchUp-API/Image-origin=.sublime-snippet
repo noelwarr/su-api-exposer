@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+origin=(${1:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to origin= the snippet -->
+	<tabTrigger>origin=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will origin= -->
+	<scope>source.ruby</scope>
+</snippet>

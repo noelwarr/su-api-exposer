@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onElementRemoved(${1:entities}, ${2:entity_id})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onElementRemoved the snippet -->
+	<tabTrigger>onElementRemoved</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onElementRemoved -->
+	<scope>source.ruby</scope>
+</snippet>

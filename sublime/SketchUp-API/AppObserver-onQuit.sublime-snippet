@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onQuit
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onQuit the snippet -->
+	<tabTrigger>onQuit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onQuit -->
+	<scope>source.ruby</scope>
+</snippet>

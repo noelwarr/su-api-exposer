@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+start_operation(${1:op_name}, ${2:disable_ui}, ${3:transparent}, ${4:prev_trans})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to start_operation the snippet -->
+	<tabTrigger>start_operation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will start_operation -->
+	<scope>source.ruby</scope>
+</snippet>

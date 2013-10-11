@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_element_value(${1:element_id})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_element_value the snippet -->
+	<tabTrigger>get_element_value</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_element_value -->
+	<scope>source.ruby</scope>
+</snippet>

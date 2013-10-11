@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+String
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to String the snippet -->
+	<tabTrigger>String</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will String -->
+	<scope>source.ruby</scope>
+</snippet>

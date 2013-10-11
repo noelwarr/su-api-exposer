@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_front_UVQ(${1:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_front_UVQ the snippet -->
+	<tabTrigger>get_front_UVQ</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_front_UVQ -->
+	<scope>source.ruby</scope>
+</snippet>

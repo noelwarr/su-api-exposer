@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+has_leader?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to has_leader? the snippet -->
+	<tabTrigger>has_leader?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will has_leader? -->
+	<scope>source.ruby</scope>
+</snippet>

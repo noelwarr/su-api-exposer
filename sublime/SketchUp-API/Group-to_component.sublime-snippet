@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+to_component(${1:none})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to to_component the snippet -->
+	<tabTrigger>to_component</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will to_component -->
+	<scope>source.ruby</scope>
+</snippet>

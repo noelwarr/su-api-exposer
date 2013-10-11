@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_action_callback(${1:callback_name}, ${2:dialog}, ${3:params})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_action_callback the snippet -->
+	<tabTrigger>add_action_callback</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_action_callback -->
+	<scope>source.ruby</scope>
+</snippet>

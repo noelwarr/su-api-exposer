@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_datum
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_datum the snippet -->
+	<tabTrigger>set_datum</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_datum -->
+	<scope>source.ruby</scope>
+</snippet>

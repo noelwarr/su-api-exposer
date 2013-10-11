@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_line(${1:point1}, ${2:point2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_line the snippet -->
+	<tabTrigger>add_line</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_line -->
+	<scope>source.ruby</scope>
+</snippet>

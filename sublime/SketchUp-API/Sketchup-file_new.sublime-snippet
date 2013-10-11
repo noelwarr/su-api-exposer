@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+file_new
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to file_new the snippet -->
+	<tabTrigger>file_new</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will file_new -->
+	<scope>source.ruby</scope>
+</snippet>

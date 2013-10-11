@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+GetString(${1:key})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to GetString the snippet -->
+	<tabTrigger>GetString</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will GetString -->
+	<scope>source.ruby</scope>
+</snippet>

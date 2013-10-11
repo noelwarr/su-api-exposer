@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+lock_inference(${1:inputpoint}, ${2:inputpoint2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to lock_inference the snippet -->
+	<tabTrigger>lock_inference</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will lock_inference -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+zoom_extents
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to zoom_extents the snippet -->
+	<tabTrigger>zoom_extents</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will zoom_extents -->
+	<scope>source.ruby</scope>
+</snippet>

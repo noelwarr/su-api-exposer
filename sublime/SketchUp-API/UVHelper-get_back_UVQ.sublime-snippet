@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_back_UVQ(${1:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_back_UVQ the snippet -->
+	<tabTrigger>get_back_UVQ</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_back_UVQ -->
+	<scope>source.ruby</scope>
+</snippet>

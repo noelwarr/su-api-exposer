@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Curve
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Curve the snippet -->
+	<tabTrigger>Curve</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Curve -->
+	<scope>source.ruby</scope>
+</snippet>

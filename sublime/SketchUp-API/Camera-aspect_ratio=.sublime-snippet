@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+aspect_ratio=
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to aspect_ratio= the snippet -->
+	<tabTrigger>aspect_ratio=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will aspect_ratio= -->
+	<scope>source.ruby</scope>
+</snippet>

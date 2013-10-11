@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+supports_options?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to supports_options? the snippet -->
+	<tabTrigger>supports_options?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will supports_options? -->
+	<scope>source.ruby</scope>
+</snippet>

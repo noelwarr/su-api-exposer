@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_shortcuts
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_shortcuts the snippet -->
+	<tabTrigger>get_shortcuts</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_shortcuts -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+position_material(${1:material}, ${2:pt_array}, ${3:o_front})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to position_material the snippet -->
+	<tabTrigger>position_material</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will position_material -->
+	<scope>source.ruby</scope>
+</snippet>

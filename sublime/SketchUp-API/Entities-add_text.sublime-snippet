@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_text(${1:text}, ${2:point}, ${3:vector})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_text the snippet -->
+	<tabTrigger>add_text</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_text -->
+	<scope>source.ruby</scope>
+</snippet>

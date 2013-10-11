@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+each_key(${1:key})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to each_key the snippet -->
+	<tabTrigger>each_key</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will each_key -->
+	<scope>source.ruby</scope>
+</snippet>

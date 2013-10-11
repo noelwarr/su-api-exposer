@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+explode
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to explode the snippet -->
+	<tabTrigger>explode</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will explode -->
+	<scope>source.ruby</scope>
+</snippet>

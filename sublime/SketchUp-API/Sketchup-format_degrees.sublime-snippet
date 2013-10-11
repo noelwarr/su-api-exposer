@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+format_degrees(${1:number})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to format_degrees the snippet -->
+	<tabTrigger>format_degrees</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will format_degrees -->
+	<scope>source.ruby</scope>
+</snippet>

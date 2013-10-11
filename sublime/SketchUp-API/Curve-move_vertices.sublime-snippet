@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+move_vertices(${1:point_array})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to move_vertices the snippet -->
+	<tabTrigger>move_vertices</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will move_vertices -->
+	<scope>source.ruby</scope>
+</snippet>

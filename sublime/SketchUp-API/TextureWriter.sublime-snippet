@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+TextureWriter
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to TextureWriter the snippet -->
+	<tabTrigger>TextureWriter</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will TextureWriter -->
+	<scope>source.ruby</scope>
+</snippet>

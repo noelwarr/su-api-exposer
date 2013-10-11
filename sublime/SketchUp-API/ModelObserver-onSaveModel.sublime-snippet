@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onSaveModel(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onSaveModel the snippet -->
+	<tabTrigger>onSaveModel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onSaveModel -->
+	<scope>source.ruby</scope>
+</snippet>

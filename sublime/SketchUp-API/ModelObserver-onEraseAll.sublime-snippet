@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onEraseAll(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onEraseAll the snippet -->
+	<tabTrigger>onEraseAll</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onEraseAll -->
+	<scope>source.ruby</scope>
+</snippet>

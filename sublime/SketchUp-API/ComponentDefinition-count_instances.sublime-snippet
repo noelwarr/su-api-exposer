@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+count_instances
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to count_instances the snippet -->
+	<tabTrigger>count_instances</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will count_instances -->
+	<scope>source.ruby</scope>
+</snippet>

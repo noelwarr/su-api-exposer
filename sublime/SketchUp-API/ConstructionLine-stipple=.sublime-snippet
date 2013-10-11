@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+stipple=(${1:pattern})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to stipple= the snippet -->
+	<tabTrigger>stipple=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will stipple= -->
+	<scope>source.ruby</scope>
+</snippet>

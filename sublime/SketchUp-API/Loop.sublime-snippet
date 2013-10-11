@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Loop
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Loop the snippet -->
+	<tabTrigger>Loop</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Loop -->
+	<scope>source.ruby</scope>
+</snippet>

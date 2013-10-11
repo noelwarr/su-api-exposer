@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+closest_points
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to closest_points the snippet -->
+	<tabTrigger>closest_points</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will closest_points -->
+	<scope>source.ruby</scope>
+</snippet>

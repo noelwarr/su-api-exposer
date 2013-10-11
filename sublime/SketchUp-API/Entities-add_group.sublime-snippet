@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_group(${1:(optional)})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_group the snippet -->
+	<tabTrigger>add_group</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_group -->
+	<scope>source.ruby</scope>
+</snippet>

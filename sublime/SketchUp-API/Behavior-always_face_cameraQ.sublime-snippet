@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+always_face_camera?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to always_face_camera? the snippet -->
+	<tabTrigger>always_face_camera?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will always_face_camera? -->
+	<scope>source.ruby</scope>
+</snippet>

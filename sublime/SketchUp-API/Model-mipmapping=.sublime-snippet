@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mipmapping=(${1:boolean})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to mipmapping= the snippet -->
+	<tabTrigger>mipmapping=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will mipmapping= -->
+	<scope>source.ruby</scope>
+</snippet>

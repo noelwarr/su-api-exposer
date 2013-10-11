@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_image(${1:filename}, ${2:point}, ${3:width}, ${4:height})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_image the snippet -->
+	<tabTrigger>add_image</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_image -->
+	<scope>source.ruby</scope>
+</snippet>

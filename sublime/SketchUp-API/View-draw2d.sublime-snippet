@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+draw2d(${1:openglenum}, ${2:points})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to draw2d the snippet -->
+	<tabTrigger>draw2d</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will draw2d -->
+	<scope>source.ruby</scope>
+</snippet>

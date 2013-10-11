@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+commit_operation
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to commit_operation the snippet -->
+	<tabTrigger>commit_operation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will commit_operation -->
+	<scope>source.ruby</scope>
+</snippet>

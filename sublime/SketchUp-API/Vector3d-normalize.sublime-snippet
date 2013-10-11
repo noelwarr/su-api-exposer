@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+normalize
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to normalize the snippet -->
+	<tabTrigger>normalize</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will normalize -->
+	<scope>source.ruby</scope>
+</snippet>

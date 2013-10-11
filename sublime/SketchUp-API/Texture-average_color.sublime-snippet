@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+average_color
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to average_color the snippet -->
+	<tabTrigger>average_color</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will average_color -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onNewModel(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onNewModel the snippet -->
+	<tabTrigger>onNewModel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onNewModel -->
+	<scope>source.ruby</scope>
+</snippet>

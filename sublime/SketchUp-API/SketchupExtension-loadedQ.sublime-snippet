@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+loaded?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to loaded? the snippet -->
+	<tabTrigger>loaded?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will loaded? -->
+	<scope>source.ruby</scope>
+</snippet>

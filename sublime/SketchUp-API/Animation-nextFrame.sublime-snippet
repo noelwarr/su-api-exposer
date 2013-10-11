@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+nextFrame(${1:view})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to nextFrame the snippet -->
+	<tabTrigger>nextFrame</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will nextFrame -->
+	<scope>source.ruby</scope>
+</snippet>

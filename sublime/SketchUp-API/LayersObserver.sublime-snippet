@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+LayersObserver
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to LayersObserver the snippet -->
+	<tabTrigger>LayersObserver</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will LayersObserver -->
+	<scope>source.ruby</scope>
+</snippet>

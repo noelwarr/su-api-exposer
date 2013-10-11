@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+interpolate(${1:transform1}, ${2:transform2}, ${3:parameter})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to interpolate the snippet -->
+	<tabTrigger>interpolate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will interpolate -->
+	<scope>source.ruby</scope>
+</snippet>

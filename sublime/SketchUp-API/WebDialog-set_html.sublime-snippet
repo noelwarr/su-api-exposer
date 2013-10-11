@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_html(${1:html_string})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_html the snippet -->
+	<tabTrigger>set_html</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_html -->
+	<scope>source.ruby</scope>
+</snippet>

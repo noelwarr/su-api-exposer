@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+parallel?(${1:vector2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to parallel? the snippet -->
+	<tabTrigger>parallel?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will parallel? -->
+	<scope>source.ruby</scope>
+</snippet>

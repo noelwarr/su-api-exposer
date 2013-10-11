@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+toggle(${1:ents_or_array})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to toggle the snippet -->
+	<tabTrigger>toggle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will toggle -->
+	<scope>source.ruby</scope>
+</snippet>

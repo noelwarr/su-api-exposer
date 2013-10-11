@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_circle(${1:center}, ${2:normal}, ${3:radius}, ${4:numsegs})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_circle the snippet -->
+	<tabTrigger>add_circle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_circle -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+openpanel(${1:title}, ${2:directory}, ${3:filename})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to openpanel the snippet -->
+	<tabTrigger>openpanel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will openpanel -->
+	<scope>source.ruby</scope>
+</snippet>

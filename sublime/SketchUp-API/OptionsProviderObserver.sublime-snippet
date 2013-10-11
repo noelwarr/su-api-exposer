@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+OptionsProviderObserver
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to OptionsProviderObserver the snippet -->
+	<tabTrigger>OptionsProviderObserver</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will OptionsProviderObserver -->
+	<scope>source.ruby</scope>
+</snippet>

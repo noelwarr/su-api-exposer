@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ExtensionsManager
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to ExtensionsManager the snippet -->
+	<tabTrigger>ExtensionsManager</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will ExtensionsManager -->
+	<scope>source.ruby</scope>
+</snippet>

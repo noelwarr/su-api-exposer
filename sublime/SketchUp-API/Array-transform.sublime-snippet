@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+transform(${1:transform})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to transform the snippet -->
+	<tabTrigger>transform</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will transform -->
+	<scope>source.ruby</scope>
+</snippet>

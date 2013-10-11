@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+group?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to group? the snippet -->
+	<tabTrigger>group?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will group? -->
+	<scope>source.ruby</scope>
+</snippet>

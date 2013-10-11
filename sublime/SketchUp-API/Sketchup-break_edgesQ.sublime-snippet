@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+break_edges?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to break_edges? the snippet -->
+	<tabTrigger>break_edges?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will break_edges? -->
+	<scope>source.ruby</scope>
+</snippet>

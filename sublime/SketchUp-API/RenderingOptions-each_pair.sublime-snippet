@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+each_pair
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to each_pair the snippet -->
+	<tabTrigger>each_pair</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will each_pair -->
+	<scope>source.ruby</scope>
+</snippet>

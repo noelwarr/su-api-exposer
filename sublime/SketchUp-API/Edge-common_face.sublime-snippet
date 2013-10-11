@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+common_face(${1:edge2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to common_face the snippet -->
+	<tabTrigger>common_face</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will common_face -->
+	<scope>source.ruby</scope>
+</snippet>

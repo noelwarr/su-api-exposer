@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onElementModified(${1:entities}, ${2:entity})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onElementModified the snippet -->
+	<tabTrigger>onElementModified</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onElementModified -->
+	<scope>source.ruby</scope>
+</snippet>

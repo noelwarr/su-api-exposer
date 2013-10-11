@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+x=(${1:value})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to x= the snippet -->
+	<tabTrigger>x=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will x= -->
+	<scope>source.ruby</scope>
+</snippet>

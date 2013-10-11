@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Geom
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Geom the snippet -->
+	<tabTrigger>Geom</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Geom -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+delete_key(${1:key})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to delete_key the snippet -->
+	<tabTrigger>delete_key</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will delete_key -->
+	<scope>source.ruby</scope>
+</snippet>

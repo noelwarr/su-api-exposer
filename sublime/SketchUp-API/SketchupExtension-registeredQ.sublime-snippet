@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+registered?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to registered? the snippet -->
+	<tabTrigger>registered?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will registered? -->
+	<scope>source.ruby</scope>
+</snippet>

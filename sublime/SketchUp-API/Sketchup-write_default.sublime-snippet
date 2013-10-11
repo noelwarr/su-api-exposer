@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+write_default(${1:section}, ${2:variable}, ${3:value})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to write_default the snippet -->
+	<tabTrigger>write_default</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will write_default -->
+	<scope>source.ruby</scope>
+</snippet>

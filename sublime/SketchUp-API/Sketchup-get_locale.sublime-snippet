@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_locale
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_locale the snippet -->
+	<tabTrigger>get_locale</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_locale -->
+	<scope>source.ruby</scope>
+</snippet>

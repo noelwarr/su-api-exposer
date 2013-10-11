@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+fov=(${1:fov})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to fov= the snippet -->
+	<tabTrigger>fov=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will fov= -->
+	<scope>source.ruby</scope>
+</snippet>

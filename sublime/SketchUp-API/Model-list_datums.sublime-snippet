@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+list_datums
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to list_datums the snippet -->
+	<tabTrigger>list_datums</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will list_datums -->
+	<scope>source.ruby</scope>
+</snippet>

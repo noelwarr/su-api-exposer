@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+start_timer(${1:seconds}, ${2:repeat}, ${3:procedure})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to start_timer the snippet -->
+	<tabTrigger>start_timer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will start_timer -->
+	<scope>source.ruby</scope>
+</snippet>

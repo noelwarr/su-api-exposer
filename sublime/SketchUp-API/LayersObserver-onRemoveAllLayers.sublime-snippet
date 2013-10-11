@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onRemoveAllLayers(${1:layers})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onRemoveAllLayers the snippet -->
+	<tabTrigger>onRemoveAllLayers</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onRemoveAllLayers -->
+	<scope>source.ruby</scope>
+</snippet>

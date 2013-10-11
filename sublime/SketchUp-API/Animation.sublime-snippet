@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Animation
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Animation the snippet -->
+	<tabTrigger>Animation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Animation -->
+	<scope>source.ruby</scope>
+</snippet>

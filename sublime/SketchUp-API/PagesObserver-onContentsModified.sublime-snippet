@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onContentsModified(${1:pages})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onContentsModified the snippet -->
+	<tabTrigger>onContentsModified</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onContentsModified -->
+	<scope>source.ruby</scope>
+</snippet>

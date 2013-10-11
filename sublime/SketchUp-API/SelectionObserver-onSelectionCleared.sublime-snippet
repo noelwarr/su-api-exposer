@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onSelectionCleared(${1:selection})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onSelectionCleared the snippet -->
+	<tabTrigger>onSelectionCleared</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onSelectionCleared -->
+	<scope>source.ruby</scope>
+</snippet>

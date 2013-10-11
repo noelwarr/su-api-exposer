@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+fit_plane_to_points(${1:points})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to fit_plane_to_points the snippet -->
+	<tabTrigger>fit_plane_to_points</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will fit_plane_to_points -->
+	<scope>source.ruby</scope>
+</snippet>

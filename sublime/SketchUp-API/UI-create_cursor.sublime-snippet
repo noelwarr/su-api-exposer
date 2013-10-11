@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+create_cursor(${1:filename}, ${2:hot_x}, ${3:hot_y})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to create_cursor the snippet -->
+	<tabTrigger>create_cursor</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will create_cursor -->
+	<scope>source.ruby</scope>
+</snippet>

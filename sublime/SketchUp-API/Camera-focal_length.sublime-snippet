@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+focal_length(${1:length})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to focal_length the snippet -->
+	<tabTrigger>focal_length</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will focal_length -->
+	<scope>source.ruby</scope>
+</snippet>

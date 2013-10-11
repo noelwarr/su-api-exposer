@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+enableVCB?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to enableVCB? the snippet -->
+	<tabTrigger>enableVCB?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will enableVCB? -->
+	<scope>source.ruby</scope>
+</snippet>

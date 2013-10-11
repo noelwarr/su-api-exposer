@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+pushpull(${1:distance}, ${2:copy})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to pushpull the snippet -->
+	<tabTrigger>pushpull</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will pushpull -->
+	<scope>source.ruby</scope>
+</snippet>

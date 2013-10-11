@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onComponentInstanceRemoved(${1:definition}, ${2:instance})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onComponentInstanceRemoved the snippet -->
+	<tabTrigger>onComponentInstanceRemoved</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onComponentInstanceRemoved -->
+	<scope>source.ruby</scope>
+</snippet>

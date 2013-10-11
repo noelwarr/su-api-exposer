@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_resource_path(${1:filename})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_resource_path the snippet -->
+	<tabTrigger>get_resource_path</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_resource_path -->
+	<scope>source.ruby</scope>
+</snippet>

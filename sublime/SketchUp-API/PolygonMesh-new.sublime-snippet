@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+new(${1:numpts}, ${2:numpolys})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to new the snippet -->
+	<tabTrigger>new</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will new -->
+	<scope>source.ruby</scope>
+</snippet>

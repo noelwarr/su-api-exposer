@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+push_tool(${1:tool})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to push_tool the snippet -->
+	<tabTrigger>push_tool</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will push_tool -->
+	<scope>source.ruby</scope>
+</snippet>

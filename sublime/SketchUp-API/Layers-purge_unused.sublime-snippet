@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+purge_unused
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to purge_unused the snippet -->
+	<tabTrigger>purge_unused</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will purge_unused -->
+	<scope>source.ruby</scope>
+</snippet>

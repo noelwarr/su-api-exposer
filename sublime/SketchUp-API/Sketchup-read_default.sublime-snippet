@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+read_default(${1:section}, ${2:variable}, ${3:default})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to read_default the snippet -->
+	<tabTrigger>read_default</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will read_default -->
+	<scope>source.ruby</scope>
+</snippet>

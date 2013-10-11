@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onActivePathChanged(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onActivePathChanged the snippet -->
+	<tabTrigger>onActivePathChanged</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onActivePathChanged -->
+	<scope>source.ruby</scope>
+</snippet>

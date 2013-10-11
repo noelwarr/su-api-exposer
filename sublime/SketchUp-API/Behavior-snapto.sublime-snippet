@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+snapto
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to snapto the snippet -->
+	<tabTrigger>snapto</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will snapto -->
+	<scope>source.ruby</scope>
+</snippet>

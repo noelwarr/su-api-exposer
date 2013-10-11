@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+bring_to_front
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to bring_to_front the snippet -->
+	<tabTrigger>bring_to_front</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will bring_to_front -->
+	<scope>source.ruby</scope>
+</snippet>

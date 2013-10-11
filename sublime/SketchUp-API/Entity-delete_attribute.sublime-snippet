@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+delete_attribute(${1:dictionary_name}, ${2:key})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to delete_attribute the snippet -->
+	<tabTrigger>delete_attribute</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will delete_attribute -->
+	<scope>source.ruby</scope>
+</snippet>

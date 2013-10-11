@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onTransactionUndo(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onTransactionUndo the snippet -->
+	<tabTrigger>onTransactionUndo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onTransactionUndo -->
+	<scope>source.ruby</scope>
+</snippet>

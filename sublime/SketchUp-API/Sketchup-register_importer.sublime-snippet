@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+register_importer(${1:importer})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to register_importer the snippet -->
+	<tabTrigger>register_importer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will register_importer -->
+	<scope>source.ruby</scope>
+</snippet>

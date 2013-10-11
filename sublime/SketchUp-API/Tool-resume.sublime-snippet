@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+resume(${1:view})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to resume the snippet -->
+	<tabTrigger>resume</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will resume -->
+	<scope>source.ruby</scope>
+</snippet>

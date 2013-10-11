@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+blend(${1:color2}, ${2:weight})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to blend the snippet -->
+	<tabTrigger>blend</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will blend -->
+	<scope>source.ruby</scope>
+</snippet>

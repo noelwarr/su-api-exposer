@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+play_sound(${1:filename})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to play_sound the snippet -->
+	<tabTrigger>play_sound</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will play_sound -->
+	<scope>source.ruby</scope>
+</snippet>

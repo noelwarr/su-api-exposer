@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+is_polygon?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to is_polygon? the snippet -->
+	<tabTrigger>is_polygon?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will is_polygon? -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onViewChanged(${1:view})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onViewChanged the snippet -->
+	<tabTrigger>onViewChanged</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onViewChanged -->
+	<scope>source.ruby</scope>
+</snippet>

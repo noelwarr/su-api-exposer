@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+max_width=(${1:width})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to max_width= the snippet -->
+	<tabTrigger>max_width=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will max_width= -->
+	<scope>source.ruby</scope>
+</snippet>

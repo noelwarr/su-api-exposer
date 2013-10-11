@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+leader_type=(${1:type})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to leader_type= the snippet -->
+	<tabTrigger>leader_type=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will leader_type= -->
+	<scope>source.ruby</scope>
+</snippet>

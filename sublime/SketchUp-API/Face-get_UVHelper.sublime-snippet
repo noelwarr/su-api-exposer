@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_UVHelper(${1:front}, ${2:back}, ${3:texturewriter})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_UVHelper the snippet -->
+	<tabTrigger>get_UVHelper</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_UVHelper -->
+	<scope>source.ruby</scope>
+</snippet>

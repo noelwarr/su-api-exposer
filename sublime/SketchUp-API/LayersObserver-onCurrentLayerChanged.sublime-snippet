@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onCurrentLayerChanged(${1:layers}, ${2:layer})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onCurrentLayerChanged the snippet -->
+	<tabTrigger>onCurrentLayerChanged</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onCurrentLayerChanged -->
+	<scope>source.ruby</scope>
+</snippet>

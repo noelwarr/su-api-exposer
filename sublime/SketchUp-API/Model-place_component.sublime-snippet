@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+place_component(${1:componentdef}, ${2:repeat})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to place_component the snippet -->
+	<tabTrigger>place_component</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will place_component -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+radius
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to radius the snippet -->
+	<tabTrigger>radius</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will radius -->
+	<scope>source.ruby</scope>
+</snippet>

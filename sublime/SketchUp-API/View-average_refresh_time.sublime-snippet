@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+average_refresh_time
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to average_refresh_time the snippet -->
+	<tabTrigger>average_refresh_time</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will average_refresh_time -->
+	<scope>source.ruby</scope>
+</snippet>

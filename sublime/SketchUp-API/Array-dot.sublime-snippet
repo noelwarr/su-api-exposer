@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+dot(${1:vector})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to dot the snippet -->
+	<tabTrigger>dot</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will dot -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+refresh_thumbnail
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to refresh_thumbnail the snippet -->
+	<tabTrigger>refresh_thumbnail</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will refresh_thumbnail -->
+	<scope>source.ruby</scope>
+</snippet>

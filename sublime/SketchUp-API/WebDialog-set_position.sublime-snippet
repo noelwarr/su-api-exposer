@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_position(${1:left}, ${2:top})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_position the snippet -->
+	<tabTrigger>set_position</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_position -->
+	<scope>source.ruby</scope>
+</snippet>

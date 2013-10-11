@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+min
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to min the snippet -->
+	<tabTrigger>min</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will min -->
+	<scope>source.ruby</scope>
+</snippet>

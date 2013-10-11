@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+tags=(${1:tags})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to tags= the snippet -->
+	<tabTrigger>tags=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will tags= -->
+	<scope>source.ruby</scope>
+</snippet>

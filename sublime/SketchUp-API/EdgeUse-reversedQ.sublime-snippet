@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+reversed?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to reversed? the snippet -->
+	<tabTrigger>reversed?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will reversed? -->
+	<scope>source.ruby</scope>
+</snippet>

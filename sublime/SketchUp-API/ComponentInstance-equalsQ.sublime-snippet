@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+equals?(${1:instance})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to equals? the snippet -->
+	<tabTrigger>equals?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will equals? -->
+	<scope>source.ruby</scope>
+</snippet>

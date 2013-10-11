@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Model
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Model the snippet -->
+	<tabTrigger>Model</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Model -->
+	<scope>source.ruby</scope>
+</snippet>

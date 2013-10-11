@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+erase_entities(${1:entities})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to erase_entities the snippet -->
+	<tabTrigger>erase_entities</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will erase_entities -->
+	<scope>source.ruby</scope>
+</snippet>

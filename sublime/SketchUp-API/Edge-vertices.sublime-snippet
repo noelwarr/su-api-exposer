@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+vertices
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to vertices the snippet -->
+	<tabTrigger>vertices</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will vertices -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+intersect(${1:instance})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to intersect the snippet -->
+	<tabTrigger>intersect</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will intersect -->
+	<scope>source.ruby</scope>
+</snippet>

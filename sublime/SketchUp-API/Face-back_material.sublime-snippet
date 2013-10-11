@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+back_material
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to back_material the snippet -->
+	<tabTrigger>back_material</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will back_material -->
+	<scope>source.ruby</scope>
+</snippet>

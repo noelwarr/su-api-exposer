@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+first
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to first the snippet -->
+	<tabTrigger>first</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will first -->
+	<scope>source.ruby</scope>
+</snippet>

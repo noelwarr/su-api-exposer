@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_note(${1:note}, ${2:x}, ${3:y})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_note the snippet -->
+	<tabTrigger>add_note</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_note -->
+	<scope>source.ruby</scope>
+</snippet>

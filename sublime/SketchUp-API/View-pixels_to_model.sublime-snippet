@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+pixels_to_model(${1:pixels}, ${2:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to pixels_to_model the snippet -->
+	<tabTrigger>pixels_to_model</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will pixels_to_model -->
+	<scope>source.ruby</scope>
+</snippet>

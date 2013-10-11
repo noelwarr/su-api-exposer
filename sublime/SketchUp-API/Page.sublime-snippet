@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Page
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Page the snippet -->
+	<tabTrigger>Page</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Page -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+picked_face
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to picked_face the snippet -->
+	<tabTrigger>picked_face</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will picked_face -->
+	<scope>source.ruby</scope>
+</snippet>

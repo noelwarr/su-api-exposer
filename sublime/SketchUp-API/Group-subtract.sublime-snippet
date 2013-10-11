@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+subtract(${1:group})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to subtract the snippet -->
+	<tabTrigger>subtract</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will subtract -->
+	<scope>source.ruby</scope>
+</snippet>

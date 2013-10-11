@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+write(${1:entity}, ${2:filename}, ${3:side})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to write the snippet -->
+	<tabTrigger>write</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will write -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_size(${1:w}, ${2:h})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_size the snippet -->
+	<tabTrigger>set_size</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_size -->
+	<scope>source.ruby</scope>
+</snippet>

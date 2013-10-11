@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+remove_frame_change_observer(${1:observer_id})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to remove_frame_change_observer the snippet -->
+	<tabTrigger>remove_frame_change_observer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will remove_frame_change_observer -->
+	<scope>source.ruby</scope>
+</snippet>

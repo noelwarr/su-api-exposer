@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+nitems
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to nitems the snippet -->
+	<tabTrigger>nitems</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will nitems -->
+	<scope>source.ruby</scope>
+</snippet>

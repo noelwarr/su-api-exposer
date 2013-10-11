@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+draw_points(${1:pts}, ${2:pointsize}, ${3:pointstyle}, ${4:pointcolor})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to draw_points the snippet -->
+	<tabTrigger>draw_points</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will draw_points -->
+	<scope>source.ruby</scope>
+</snippet>

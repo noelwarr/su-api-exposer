@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+unitvector?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to unitvector? the snippet -->
+	<tabTrigger>unitvector?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will unitvector? -->
+	<scope>source.ruby</scope>
+</snippet>

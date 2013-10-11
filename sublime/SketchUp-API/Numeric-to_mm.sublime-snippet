@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+to_mm
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to to_mm the snippet -->
+	<tabTrigger>to_mm</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will to_mm -->
+	<scope>source.ruby</scope>
+</snippet>

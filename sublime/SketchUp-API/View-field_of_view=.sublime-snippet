@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+field_of_view=(${1:fov})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to field_of_view= the snippet -->
+	<tabTrigger>field_of_view=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will field_of_view= -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_curve(${1:pts_or_array})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_curve the snippet -->
+	<tabTrigger>add_curve</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_curve -->
+	<scope>source.ruby</scope>
+</snippet>

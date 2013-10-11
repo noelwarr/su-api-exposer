@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+transition_time=(${1:trans_time})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to transition_time= the snippet -->
+	<tabTrigger>transition_time=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will transition_time= -->
+	<scope>source.ruby</scope>
+</snippet>

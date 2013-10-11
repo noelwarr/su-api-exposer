@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+pixelheight
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to pixelheight the snippet -->
+	<tabTrigger>pixelheight</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will pixelheight -->
+	<scope>source.ruby</scope>
+</snippet>

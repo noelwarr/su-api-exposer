@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+intersect_with(${1:recurse}, ${2:transform1}, ${3:entities1}, ${4:transform2}, ${5:hidden}, ${6:entities2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to intersect_with the snippet -->
+	<tabTrigger>intersect_with</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will intersect_with -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+arrow_type
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to arrow_type the snippet -->
+	<tabTrigger>arrow_type</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will arrow_type -->
+	<scope>source.ruby</scope>
+</snippet>

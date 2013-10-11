@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_item(${1:command})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_item the snippet -->
+	<tabTrigger>add_item</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_item -->
+	<scope>source.ruby</scope>
+</snippet>

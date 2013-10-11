@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+SectionPlane
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to SectionPlane the snippet -->
+	<tabTrigger>SectionPlane</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will SectionPlane -->
+	<scope>source.ruby</scope>
+</snippet>

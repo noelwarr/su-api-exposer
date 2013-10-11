@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ShadowInfoObserver
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to ShadowInfoObserver the snippet -->
+	<tabTrigger>ShadowInfoObserver</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will ShadowInfoObserver -->
+	<scope>source.ruby</scope>
+</snippet>

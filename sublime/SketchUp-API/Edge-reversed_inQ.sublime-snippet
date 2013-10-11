@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+reversed_in?(${1:face})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to reversed_in? the snippet -->
+	<tabTrigger>reversed_in?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will reversed_in? -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onSelectionAdded(${1:selection}, ${2:Element})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onSelectionAdded the snippet -->
+	<tabTrigger>onSelectionAdded</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onSelectionAdded -->
+	<scope>source.ruby</scope>
+</snippet>

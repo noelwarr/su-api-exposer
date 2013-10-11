@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+save_thumbnail(${1:filename})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to save_thumbnail the snippet -->
+	<tabTrigger>save_thumbnail</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will save_thumbnail -->
+	<scope>source.ruby</scope>
+</snippet>

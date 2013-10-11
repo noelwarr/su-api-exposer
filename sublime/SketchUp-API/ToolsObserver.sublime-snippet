@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ToolsObserver
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to ToolsObserver the snippet -->
+	<tabTrigger>ToolsObserver</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will ToolsObserver -->
+	<scope>source.ruby</scope>
+</snippet>

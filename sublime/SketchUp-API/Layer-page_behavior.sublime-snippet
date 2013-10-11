@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+page_behavior
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to page_behavior the snippet -->
+	<tabTrigger>page_behavior</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will page_behavior -->
+	<scope>source.ruby</scope>
+</snippet>

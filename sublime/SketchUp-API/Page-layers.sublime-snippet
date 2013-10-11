@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+layers
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to layers the snippet -->
+	<tabTrigger>layers</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will layers -->
+	<scope>source.ruby</scope>
+</snippet>

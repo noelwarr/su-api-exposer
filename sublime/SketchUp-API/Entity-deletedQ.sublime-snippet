@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+deleted?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to deleted? the snippet -->
+	<tabTrigger>deleted?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will deleted? -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+degrees_of_freedom
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to degrees_of_freedom the snippet -->
+	<tabTrigger>degrees_of_freedom</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will degrees_of_freedom -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onTransactionCommit(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onTransactionCommit the snippet -->
+	<tabTrigger>onTransactionCommit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onTransactionCommit -->
+	<scope>source.ruby</scope>
+</snippet>

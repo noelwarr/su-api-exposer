@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+template_dir
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to template_dir the snippet -->
+	<tabTrigger>template_dir</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will template_dir -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+shadows_face_sun?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to shadows_face_sun? the snippet -->
+	<tabTrigger>shadows_face_sun?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will shadows_face_sun? -->
+	<scope>source.ruby</scope>
+</snippet>

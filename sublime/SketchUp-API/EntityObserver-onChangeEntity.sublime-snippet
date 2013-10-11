@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onChangeEntity(${1:entity})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onChangeEntity the snippet -->
+	<tabTrigger>onChangeEntity</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onChangeEntity -->
+	<scope>source.ruby</scope>
+</snippet>

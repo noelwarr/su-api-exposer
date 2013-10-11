@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onLButtonUp(${1:flags}, ${2:x}, ${3:y}, ${4:view})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onLButtonUp the snippet -->
+	<tabTrigger>onLButtonUp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onLButtonUp -->
+	<scope>source.ruby</scope>
+</snippet>

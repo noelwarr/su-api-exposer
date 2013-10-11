@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+yard
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to yard the snippet -->
+	<tabTrigger>yard</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will yard -->
+	<scope>source.ruby</scope>
+</snippet>

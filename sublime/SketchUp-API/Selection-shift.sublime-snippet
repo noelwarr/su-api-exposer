@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+shift
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to shift the snippet -->
+	<tabTrigger>shift</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will shift -->
+	<scope>source.ruby</scope>
+</snippet>

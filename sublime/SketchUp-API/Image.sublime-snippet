@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Image
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Image the snippet -->
+	<tabTrigger>Image</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Image -->
+	<scope>source.ruby</scope>
+</snippet>

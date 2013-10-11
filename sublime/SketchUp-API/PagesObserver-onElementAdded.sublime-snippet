@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onElementAdded(${1:pages}, ${2:page})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onElementAdded the snippet -->
+	<tabTrigger>onElementAdded</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onElementAdded -->
+	<scope>source.ruby</scope>
+</snippet>

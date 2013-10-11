@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Entity
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Entity the snippet -->
+	<tabTrigger>Entity</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Entity -->
+	<scope>source.ruby</scope>
+</snippet>

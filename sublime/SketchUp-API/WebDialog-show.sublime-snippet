@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+show(${1:block})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to show the snippet -->
+	<tabTrigger>show</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will show -->
+	<scope>source.ruby</scope>
+</snippet>

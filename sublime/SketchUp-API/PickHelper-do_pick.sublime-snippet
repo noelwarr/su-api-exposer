@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+do_pick(${1:x}, ${2:y})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to do_pick the snippet -->
+	<tabTrigger>do_pick</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will do_pick -->
+	<scope>source.ruby</scope>
+</snippet>

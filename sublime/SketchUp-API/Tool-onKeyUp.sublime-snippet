@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onKeyUp(${1:key}, ${2:repeat}, ${3:flags}, ${4:view})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onKeyUp the snippet -->
+	<tabTrigger>onKeyUp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onKeyUp -->
+	<scope>source.ruby</scope>
+</snippet>

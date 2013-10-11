@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+use_camera?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to use_camera? the snippet -->
+	<tabTrigger>use_camera?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will use_camera? -->
+	<scope>source.ruby</scope>
+</snippet>

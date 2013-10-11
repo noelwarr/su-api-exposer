@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+empty?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to empty? the snippet -->
+	<tabTrigger>empty?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will empty? -->
+	<scope>source.ruby</scope>
+</snippet>

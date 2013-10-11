@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+guess_target
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to guess_target the snippet -->
+	<tabTrigger>guess_target</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will guess_target -->
+	<scope>source.ruby</scope>
+</snippet>

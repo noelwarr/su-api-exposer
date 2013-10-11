@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+version=(${1:version})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to version= the snippet -->
+	<tabTrigger>version=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will version= -->
+	<scope>source.ruby</scope>
+</snippet>

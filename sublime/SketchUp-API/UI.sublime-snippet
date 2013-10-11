@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+UI
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to UI the snippet -->
+	<tabTrigger>UI</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will UI -->
+	<scope>source.ruby</scope>
+</snippet>

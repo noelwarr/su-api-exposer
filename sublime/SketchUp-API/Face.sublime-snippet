@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Face
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Face the snippet -->
+	<tabTrigger>Face</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Face -->
+	<scope>source.ruby</scope>
+</snippet>

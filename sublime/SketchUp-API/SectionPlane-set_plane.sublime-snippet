@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_plane(${1:plane})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_plane the snippet -->
+	<tabTrigger>set_plane</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_plane -->
+	<scope>source.ruby</scope>
+</snippet>

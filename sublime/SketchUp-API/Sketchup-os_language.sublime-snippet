@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+os_language
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to os_language the snippet -->
+	<tabTrigger>os_language</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will os_language -->
+	<scope>source.ruby</scope>
+</snippet>

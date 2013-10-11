@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+partners
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to partners the snippet -->
+	<tabTrigger>partners</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will partners -->
+	<scope>source.ruby</scope>
+</snippet>

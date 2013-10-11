@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+casts_shadows?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to casts_shadows? the snippet -->
+	<tabTrigger>casts_shadows?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will casts_shadows? -->
+	<scope>source.ruby</scope>
+</snippet>

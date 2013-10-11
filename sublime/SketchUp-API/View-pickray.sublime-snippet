@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+pickray
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to pickray the snippet -->
+	<tabTrigger>pickray</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will pickray -->
+	<scope>source.ruby</scope>
+</snippet>

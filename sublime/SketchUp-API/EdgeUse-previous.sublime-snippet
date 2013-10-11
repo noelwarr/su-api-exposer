@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+previous
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to previous the snippet -->
+	<tabTrigger>previous</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will previous -->
+	<scope>source.ruby</scope>
+</snippet>

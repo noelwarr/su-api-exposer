@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onDeleteModel(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onDeleteModel the snippet -->
+	<tabTrigger>onDeleteModel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onDeleteModel -->
+	<scope>source.ruby</scope>
+</snippet>

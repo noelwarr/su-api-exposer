@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+clone
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to clone the snippet -->
+	<tabTrigger>clone</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will clone -->
+	<scope>source.ruby</scope>
+</snippet>

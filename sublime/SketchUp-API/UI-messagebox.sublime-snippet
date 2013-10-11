@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+messagebox(${1:message}, ${2:type})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to messagebox the snippet -->
+	<tabTrigger>messagebox</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will messagebox -->
+	<scope>source.ruby</scope>
+</snippet>

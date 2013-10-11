@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+inputpoint(${1:x}, ${2:y}, ${3:inputpoint1})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to inputpoint the snippet -->
+	<tabTrigger>inputpoint</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will inputpoint -->
+	<scope>source.ruby</scope>
+</snippet>

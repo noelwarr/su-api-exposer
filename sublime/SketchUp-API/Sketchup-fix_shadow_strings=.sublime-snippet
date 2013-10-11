@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+fix_shadow_strings=(${1:enabled})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to fix_shadow_strings= the snippet -->
+	<tabTrigger>fix_shadow_strings=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will fix_shadow_strings= -->
+	<scope>source.ruby</scope>
+</snippet>

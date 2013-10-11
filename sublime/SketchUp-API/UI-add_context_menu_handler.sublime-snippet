@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_context_menu_handler(${1:menu})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_context_menu_handler the snippet -->
+	<tabTrigger>add_context_menu_handler</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_context_menu_handler -->
+	<scope>source.ruby</scope>
+</snippet>

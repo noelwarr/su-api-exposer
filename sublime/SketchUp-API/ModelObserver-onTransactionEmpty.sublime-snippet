@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onTransactionEmpty(${1:model})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onTransactionEmpty the snippet -->
+	<tabTrigger>onTransactionEmpty</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onTransactionEmpty -->
+	<scope>source.ruby</scope>
+</snippet>

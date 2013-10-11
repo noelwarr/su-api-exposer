@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+load_from_url(${1:url}, ${2:load_handler})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to load_from_url the snippet -->
+	<tabTrigger>load_from_url</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will load_from_url -->
+	<scope>source.ruby</scope>
+</snippet>

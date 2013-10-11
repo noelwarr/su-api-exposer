@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+handle(${1:entity}, ${2:side})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to handle the snippet -->
+	<tabTrigger>handle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will handle -->
+	<scope>source.ruby</scope>
+</snippet>

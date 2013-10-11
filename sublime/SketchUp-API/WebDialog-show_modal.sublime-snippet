@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+show_modal(${1:block})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to show_modal the snippet -->
+	<tabTrigger>show_modal</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will show_modal -->
+	<scope>source.ruby</scope>
+</snippet>

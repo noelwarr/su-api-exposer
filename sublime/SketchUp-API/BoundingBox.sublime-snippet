@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+BoundingBox
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to BoundingBox the snippet -->
+	<tabTrigger>BoundingBox</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will BoundingBox -->
+	<scope>source.ruby</scope>
+</snippet>

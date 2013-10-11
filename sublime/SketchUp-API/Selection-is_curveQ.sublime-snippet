@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+is_curve?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to is_curve? the snippet -->
+	<tabTrigger>is_curve?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will is_curve? -->
+	<scope>source.ruby</scope>
+</snippet>

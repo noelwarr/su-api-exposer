@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+single_object?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to single_object? the snippet -->
+	<tabTrigger>single_object?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will single_object? -->
+	<scope>source.ruby</scope>
+</snippet>

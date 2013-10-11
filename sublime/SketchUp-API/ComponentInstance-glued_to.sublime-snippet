@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+glued_to
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to glued_to the snippet -->
+	<tabTrigger>glued_to</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will glued_to -->
+	<scope>source.ruby</scope>
+</snippet>

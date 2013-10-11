@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+material=(${1:material})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to material= the snippet -->
+	<tabTrigger>material=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will material= -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+invalidate
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to invalidate the snippet -->
+	<tabTrigger>invalidate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will invalidate -->
+	<scope>source.ruby</scope>
+</snippet>

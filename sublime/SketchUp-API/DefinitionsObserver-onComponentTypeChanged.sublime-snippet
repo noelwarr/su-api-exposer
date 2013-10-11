@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onComponentTypeChanged(${1:definitions}, ${2:definition})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onComponentTypeChanged the snippet -->
+	<tabTrigger>onComponentTypeChanged</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onComponentTypeChanged -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Set
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Set the snippet -->
+	<tabTrigger>Set</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Set -->
+	<scope>source.ruby</scope>
+</snippet>

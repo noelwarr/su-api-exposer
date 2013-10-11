@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+menu(${1:menuname})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to menu the snippet -->
+	<tabTrigger>menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will menu -->
+	<scope>source.ruby</scope>
+</snippet>

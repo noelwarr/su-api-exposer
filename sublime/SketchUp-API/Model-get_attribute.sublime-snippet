@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+get_attribute(${1:dictname}, ${2:key}, ${3:defaultvalue})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to get_attribute the snippet -->
+	<tabTrigger>get_attribute</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will get_attribute -->
+	<scope>source.ruby</scope>
+</snippet>

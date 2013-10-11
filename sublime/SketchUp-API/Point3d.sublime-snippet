@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Point3d
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Point3d the snippet -->
+	<tabTrigger>Point3d</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Point3d -->
+	<scope>source.ruby</scope>
+</snippet>

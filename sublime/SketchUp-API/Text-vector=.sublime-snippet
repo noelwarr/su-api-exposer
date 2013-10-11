@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+vector=(${1:vector})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to vector= the snippet -->
+	<tabTrigger>vector=</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will vector= -->
+	<scope>source.ruby</scope>
+</snippet>

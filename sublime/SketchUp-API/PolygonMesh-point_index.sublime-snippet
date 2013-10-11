@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+point_index(${1:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to point_index the snippet -->
+	<tabTrigger>point_index</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will point_index -->
+	<scope>source.ruby</scope>
+</snippet>

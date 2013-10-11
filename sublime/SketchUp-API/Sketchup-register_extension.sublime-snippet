@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+register_extension(${1:extension}, ${2:load_on_start})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to register_extension the snippet -->
+	<tabTrigger>register_extension</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will register_extension -->
+	<scope>source.ruby</scope>
+</snippet>

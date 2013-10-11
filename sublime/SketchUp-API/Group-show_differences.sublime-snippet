@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+show_differences(${1:group}, ${2:verbose})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to show_differences the snippet -->
+	<tabTrigger>show_differences</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will show_differences -->
+	<scope>source.ruby</scope>
+</snippet>

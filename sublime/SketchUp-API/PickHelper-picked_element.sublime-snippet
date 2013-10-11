@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+picked_element
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to picked_element the snippet -->
+	<tabTrigger>picked_element</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will picked_element -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+inputbox(${1:prompts}, ${2:defaults}, ${3:title_or_list}, ${4:title})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to inputbox the snippet -->
+	<tabTrigger>inputbox</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will inputbox -->
+	<scope>source.ruby</scope>
+</snippet>

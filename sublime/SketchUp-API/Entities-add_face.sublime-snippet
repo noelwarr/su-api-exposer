@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_face(${1:some_entities})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_face the snippet -->
+	<tabTrigger>add_face</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_face -->
+	<scope>source.ruby</scope>
+</snippet>

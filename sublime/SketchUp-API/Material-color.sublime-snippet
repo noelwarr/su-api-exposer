@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+color
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to color the snippet -->
+	<tabTrigger>color</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will color -->
+	<scope>source.ruby</scope>
+</snippet>

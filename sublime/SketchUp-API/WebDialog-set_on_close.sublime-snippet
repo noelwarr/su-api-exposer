@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+set_on_close(${1:block})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to set_on_close the snippet -->
+	<tabTrigger>set_on_close</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will set_on_close -->
+	<scope>source.ruby</scope>
+</snippet>

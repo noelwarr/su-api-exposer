@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+creator
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to creator the snippet -->
+	<tabTrigger>creator</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will creator -->
+	<scope>source.ruby</scope>
+</snippet>

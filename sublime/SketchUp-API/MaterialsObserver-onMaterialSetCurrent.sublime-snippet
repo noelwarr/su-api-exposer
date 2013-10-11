@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onMaterialSetCurrent(${1:materials}, ${2:material})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onMaterialSetCurrent the snippet -->
+	<tabTrigger>onMaterialSetCurrent</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onMaterialSetCurrent -->
+	<scope>source.ruby</scope>
+</snippet>

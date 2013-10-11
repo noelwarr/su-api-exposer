@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+add_cline(${1:start_point}, ${2:end}, ${3:stipple})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to add_cline the snippet -->
+	<tabTrigger>add_cline</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will add_cline -->
+	<scope>source.ruby</scope>
+</snippet>

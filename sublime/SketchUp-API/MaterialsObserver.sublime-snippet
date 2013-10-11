@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+MaterialsObserver
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to MaterialsObserver the snippet -->
+	<tabTrigger>MaterialsObserver</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will MaterialsObserver -->
+	<scope>source.ruby</scope>
+</snippet>

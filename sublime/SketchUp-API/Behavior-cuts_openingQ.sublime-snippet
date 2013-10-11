@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+cuts_opening?
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to cuts_opening? the snippet -->
+	<tabTrigger>cuts_opening?</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will cuts_opening? -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+angle_between(${1:vector2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to angle_between the snippet -->
+	<tabTrigger>angle_between</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will angle_between -->
+	<scope>source.ruby</scope>
+</snippet>

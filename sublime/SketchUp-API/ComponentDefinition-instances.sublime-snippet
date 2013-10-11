@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+instances
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to instances the snippet -->
+	<tabTrigger>instances</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will instances -->
+	<scope>source.ruby</scope>
+</snippet>

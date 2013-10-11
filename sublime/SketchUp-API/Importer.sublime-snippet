@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Importer
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to Importer the snippet -->
+	<tabTrigger>Importer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will Importer -->
+	<scope>source.ruby</scope>
+</snippet>

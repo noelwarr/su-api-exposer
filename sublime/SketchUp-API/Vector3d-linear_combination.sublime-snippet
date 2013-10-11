@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+linear_combination(${1:weight1}, ${2:vector1}, ${3:weight2}, ${4:vector2})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to linear_combination the snippet -->
+	<tabTrigger>linear_combination</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will linear_combination -->
+	<scope>source.ruby</scope>
+</snippet>

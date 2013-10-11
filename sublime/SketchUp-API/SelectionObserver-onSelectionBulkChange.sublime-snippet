@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onSelectionBulkChange(${1:selection})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to onSelectionBulkChange the snippet -->
+	<tabTrigger>onSelectionBulkChange</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will onSelectionBulkChange -->
+	<scope>source.ruby</scope>
+</snippet>

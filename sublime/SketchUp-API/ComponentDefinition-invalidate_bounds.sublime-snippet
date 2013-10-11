@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+invalidate_bounds
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to invalidate_bounds the snippet -->
+	<tabTrigger>invalidate_bounds</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will invalidate_bounds -->
+	<scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+scaling(${1:scale}, ${2:xscale}, ${3:yscale}, ${4:zscale}, ${5:point})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to scaling the snippet -->
+	<tabTrigger>scaling</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will scaling -->
+	<scope>source.ruby</scope>
+</snippet>
